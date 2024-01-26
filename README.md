@@ -27,13 +27,13 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-nome/react-firebase-chat-app.git
+   git clone https://github.com/RichardMath99/SuperChat
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd react-firebase-chat-app
+   cd SuperChat
    ```
 
 3. Instale as dependências:
